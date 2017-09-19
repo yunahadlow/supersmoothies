@@ -1,3 +1,3 @@
-# super smoothies
+# Super smoothies
 
-Yuna's super smoothies!
+Super smoothies that brighten up your day!
