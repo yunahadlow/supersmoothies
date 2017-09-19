@@ -11,4 +11,4 @@ We are raising money for different charities and also using the money for the in
 
 
 
-yuna@sutei.co.uk
+yuna@suteki.co.uk
