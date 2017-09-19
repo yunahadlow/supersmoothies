@@ -1,1 +1,3 @@
-# supersmoothies
+# super smoothies
+
+Yuna's super smoothies!
