@@ -4,7 +4,8 @@ Super smoothies that brighten up your day!
 
 
 Flavours:
-Beautiful Berries
+
+Beautiful Berries,
 
 Selling at:
 Lewes Highstreet,
