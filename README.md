@@ -5,7 +5,7 @@ Super smoothies that brighten up your day!
 
 Flavours:
 
-Beautiful Berries, Perfect Pink,               ![Super s](/supersmoothies/Super s.jpg)<BR/>
+Beautiful Berries, Perfect Pink,                            ![Super s](/supersmoothies/Super s.jpg)<BR/>
 
 Selling at:
 Lewes Highstreet,
