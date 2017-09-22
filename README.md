@@ -1,5 +1,8 @@
 # Super smoothies
 ![Super](/supersmoothies/super.jpg)<BR/>
+This is the logo!
+
+
 Super smoothies that brighten up your day!
 
 
