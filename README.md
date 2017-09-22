@@ -1,11 +1,11 @@
 # Super smoothies
-
+![Super](/supersmoothies/super.jpg)<BR/>
 Super smoothies that brighten up your day!
 
 
 Flavours:
 
-Beautiful Berries, Perfect Pink,                            ![Super](/supersmoothies/super.jpg)<BR/>
+Beautiful Berries, Perfect Pink,                            
 
 Selling at:
 Lewes Highstreet,
