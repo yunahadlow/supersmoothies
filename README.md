@@ -6,9 +6,9 @@ This is the logo!
 Super smoothies that brighten up your day!
 
 
-Flavours:
+Flavours 
 
-Beautiful Berries, Perfect Pink,                            
+Blasting Berries, Perfect Pink,                            
 
 Selling at:
 Lewes Highstreet,
